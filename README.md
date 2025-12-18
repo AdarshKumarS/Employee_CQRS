@@ -63,7 +63,7 @@ Employee_CQRS
 ### Clean Architecture Layers
 
 - **API**  
-  Entry point. Handles HTTP, authentication, middleware, Swagger.
+  Entry point. Handles HTTP, middleware, Swagger.
 
 - **Application**  
   Contains business logic, CQRS handlers, validators, interfaces.
