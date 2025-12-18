@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Employee_CQRS.API/Employee_CQRS.API.csproj" />
+  <Project Path="Employee_CQRS.Application.Tests/Employee_CQRS.Application.Tests.csproj" Id="7674822f-54a8-4308-991c-a5b2a26a05d5" />
+  <Project Path="Employee_CQRS.Application/Employee_CQRS.Application.csproj" />
+  <Project Path="Employee_CQRS.Domain/Employee_CQRS.Domain.csproj" />
+  <Project Path="Employee_CQRS.Infrastructure/Employee_CQRS.Infrastructure.csproj" />
+</Solution>
