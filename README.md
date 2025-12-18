@@ -30,7 +30,7 @@ Employee_CQRS
 │ ├── Controllers
 │ ├── Middlewares
 │ ├── Models
-│ ├── Services
+│ ├── Logs
 │ ├── Program.cs
 │ └── appsettings.json
 │
@@ -52,9 +52,9 @@ Employee_CQRS
 │ └── Persistence
 │
 └── Employee_CQRS.Application.Tests
-├── Common
-├── Commands
-└── Queries
+  └──  Employees
+    ├── Commands
+    └── Queries
 
 ```
 
